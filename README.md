@@ -1,79 +1,15 @@
-<!-- Header -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/main/hello.gif" width="100%" alt="Hello World"/>
-
-<h1 align="center">Manu</h1>
-<h3 align="center">Full-Stack Developer | React ⚛️ Node.js 🧠</h3>
-
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1200&color=7DF9FF&width=500&lines=Crafting+Scalable+Full-Stack+Apps;Lifelong+Learner+%7C+Builder;Coding+Ideas+Into+Reality;Building+Future-Ready+Web+Experiences" 
-    alt="Typing Animation" 
-  />
-</div>
-
-
----
-
-### 🌙 About Me  
-
-💡 I love building **smooth, functional, and aesthetic digital products**.   
-🚀 Exploring **Tech**.  
-📫 Reach out: **[belveacharya55@gmail.com](mailto:belveacharya55@gmail.com)**  
-🎯 Motto: *“Keep learning. Keep improving.”*
-
----
-
-### 🧭 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/manu-acharya-bb7265227/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:belveacharya55@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/manuacharya55" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<img src="assets/bento/top.svg" width="100%" alt="Manu: full-stack developer growing into cloud engineering. Stack: React, Node.js, Express, MongoDB, Next.js, PostgreSQL. Moving into AWS and Docker. 30 public repos.">
 </p>
-
----
-
-### ⚙️ Tech Stack  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,appwrite,mongodb,react,postgres,figma,git,linux,postman" />
+<img src="assets/bento/tourcrm.svg" width="100%" alt="TourCRM: freelance AI-powered travel CRM, about 200 active users, k6 load tested. React, Node.js, MongoDB, Gemini API, ABAC permissions.">
 </p>
-
----
-
-### 🪄 Tools & Workflows I Love  
 <p align="center">
-  ⚡ Building scalable APIs with <strong>Node.js + Express</strong>  </br>
-  🎨 Crafting beautiful, responsive UIs using <strong>CSS</strong>  
-  🤖 Integrating <strong>AI models (Gemini, Groq, OpenAI)</strong> into real-world apps   </br>
-  🚀 Exploring <strong>DevOps</strong> for better deployment flows  
+<a href="https://github.com/Manuacharya55/Smart_Complaint_System"><img src="assets/bento/p1.svg" width="24.9%" alt="Smart Complaint System"></a><a href="https://github.com/Manuacharya55/Rent_And_Lease_MarketPlace_For_House_Hold_Items"><img src="assets/bento/p2.svg" width="24.9%" alt="Rent and Lease Marketplace"></a><a href="https://github.com/Manuacharya55/E-Waiter"><img src="assets/bento/p3.svg" width="24.9%" alt="E-Waiter"></a><a href="https://github.com/Manuacharya55/Pet_Adoption_MERN"><img src="assets/bento/p4.svg" width="24.9%" alt="Pet Adoption"></a>
 </p>
-
----
-
-### 📊 GitHub Insights  
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manuacharya55&show_icons=true&theme=radical&hide_border=true&border_radius=12" /> </br>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manuacharya55&theme=radical&hide_border=true&border_radius=12" />
+<img src="assets/bento/bottom.svg" width="100%" alt="Path: freelance full-stack developer since Jan 2026, trainee at Bizotic, MCA 2025. Now: learning to architect, not just code.">
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuacharya55&layout=compact&theme=radical&hide_border=true&border_radius=12" />
-</p>
-
----
-
-### 🧠 Current Focus  
-> Learning to **architect**, not just code.  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1E90FF&height=120&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=22&animation=fadeIn" />
+<a href="mailto:belveacharya55@gmail.com"><img src="assets/bento/l_mail.svg" width="24.9%" alt="Email"></a><a href="https://linkedin.com/in/manuacharya55"><img src="assets/bento/l_in.svg" width="24.9%" alt="LinkedIn"></a><a href="https://github.com/Manuacharya55"><img src="assets/bento/l_gh.svg" width="24.9%" alt="GitHub"></a><img src="assets/bento/motto.svg" width="24.9%" alt="Keep learning. Keep improving.">
 </p>
